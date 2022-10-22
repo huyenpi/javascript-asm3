@@ -1,0 +1,39 @@
+h1,
+form,
+.btn,
+td {
+    text-align: center;
+}
+
+input {
+    margin-top: 1%;
+}
+
+.btn {
+    margin: 2%;
+}
+
+table,
+tr,
+th,
+td {
+
+    border: 1px solid;
+
+}
+
+.col-5 {
+    width: 5%
+}
+
+.col-15 {
+    width: 15%
+}
+
+.col-30 {
+    width: 30%
+}
+
+.red {
+    color: red;
+}
